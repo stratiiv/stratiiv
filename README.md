@@ -19,3 +19,10 @@ I'm an Python Web Developer building my version of the digital world one step at
           
 <br />
 
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=stratiiv&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=stratiiv&theme=gruvbox&border_radius=4.5) -->
+
+#
